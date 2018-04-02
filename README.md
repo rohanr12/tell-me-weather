@@ -4,7 +4,7 @@ A simple script for finding the weather through CLI, using Nodejs and OpenWeathe
 Command: node weather.js -c Cityname
 
 ## Dependencies:
-  -request
-  -yargs
+  *yargs
+  *request
   
   run npm install to get required dependencies
