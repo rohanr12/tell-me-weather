@@ -5,6 +5,7 @@ Command: node weather.js -c Cityname
 
 ## Dependencies:
   *yargs
+  
   *request
   
   run npm install to get required dependencies
