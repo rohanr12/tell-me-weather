@@ -2,7 +2,7 @@ const request = require('request');
 const argv = require('yargs').argv;
 
 
-let apiKey ='bb537bd9470f6de5ff037bb63a716394';
+let apiKey ='apiKey';
 let city = argv.c;
 let url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`
 
